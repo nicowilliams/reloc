@@ -1,0 +1,13 @@
+*.o
+*.so
+*.so.*
+test_reloc
+*.sw?
+cscope.*
+tests/root/test01/bin/test01
+tests/root/test01/bin/test02
+tests/root/test01/bin/test03
+preloadreloc-mapfile
+syms
+symvers
+symvers.h
